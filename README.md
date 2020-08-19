@@ -11,7 +11,7 @@ Bayesian Hypergraph / Chain graph structure learning
 
 ## Understand Chain Graph
 [Paper]
-- [1992-On block recursive linear Regression Equations](Papers/1992-On%20block%20recursive%20linear%20Regression%20Equations.pdf)
+- [1992-On block recursive linear Regression Equations](Papers/1992-On%20block%20recursive%20linear%20Regression%20Equations.pdf) [[Link]](https://www.jstor.org/stable/43601443?seq=1)
 - [2001-An Alternative Markov Property for Chain Graphs](Papers/2001-An%20Alternative%20Markov%20Property%20for%20Chain%20Graphs.pdf)
 - [2002-Chain graph models and their causal interpretations](Papers/2002-Chain%20graph%20models%20and%20their%20causal%20interpretations.pdf)
 
