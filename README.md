@@ -12,7 +12,7 @@ Bayesian Hypergraph / Chain graph structure learning
 ## Understand Chain Graph
 [Data Generation Mechanism]
 
-[](Papers/lcd)
+[LCD](Papers/lcd.pdf)
 
 [Chain Graph Definition]
 
