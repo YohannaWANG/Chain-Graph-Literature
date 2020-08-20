@@ -1,5 +1,6 @@
 # Chain Graph Literature Survey
-Bayesian Hypergraph / Chain graph structure learning 
+Bayesian Hypergraph / Chain graph structure 
+
 
 **TODO**
 ```diff
@@ -30,7 +31,7 @@ Bayesian Hypergraph / Chain graph structure learning
 
 - [2008-Structural Learning of Chain Graphs via Decomposition](Papers/2008-Structural%20Learning%20of%20Chain%20Graphs%20via%20Decomposition.pdf) [**[Link]**](https://www.jmlr.org/papers/volume9/ma08a/ma08a.pdf)
 - [2014-An inclusion optimal algorithm for chain graph structure learning](Papers/2014-An%20inclusion%20optimal%20algorithm%20for%20chain%20graph%20structure%20learning.pdf) [**[Link]**](http://proceedings.mlr.press/v33/pena14.html)
-- [2014-On Sparse Gaussian Chain Graph Models](Papers/2014-On%20Sparse%20Gaussian%20Chain%20Graph%20Models.pdf) [**[Link]**](https://papers.nips.cc/paper/5320-on-sparse-gaussian-chain-graph-models)
+- [2014-On Sparse Gaussian Chain Graph Models](Papers/2014-On%20Sparse%20Gaussian%20Chain%20Graph%20Models.pdf) [**[Link]**](https://papers.nips.cc/paper/5320-on-sparse-gaussian-chain-graph-models) [**[Poster]**](http://calvinmccarter.com/papers/chaingraph-poster.pdf)
 - [2018-Sparse Learning in Gaussian Chain Graphs for State Space Models](Papers/2018-Sparse%20Learning%20in%20Gaussian%20Chain%20Graphs%20for%20State%20Space%20Models.pdf) [**[Link]**](http://proceedings.mlr.press/v72/petersen18a.html)
 - [2019-On the Properties of MVR Chain Graphs](Papers/2019-On%20the%20Properties%20of%20MVR%20Chain%20Graphs.pdf) [**[Link]**](https://arxiv.org/abs/1803.04262)
 
