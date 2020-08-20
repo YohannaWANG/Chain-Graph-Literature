@@ -35,7 +35,7 @@ Bayesian Hypergraph / Chain graph structure
 - [2018-Sparse Learning in Gaussian Chain Graphs for State Space Models](Papers/2018-Sparse%20Learning%20in%20Gaussian%20Chain%20Graphs%20for%20State%20Space%20Models.pdf) [**[Link]**](http://proceedings.mlr.press/v72/petersen18a.html)
 - [2019-On the Properties of MVR Chain Graphs](Papers/2019-On%20the%20Properties%20of%20MVR%20Chain%20Graphs.pdf) [**[Link]**](https://arxiv.org/abs/1803.04262)
 
-
+- [2020-Learning LWF Chain Graphs: A Markov Blanket Discovery Approach](https://arxiv.org/abs/2006.00970) [**[Code]**](https://github.com/majavid/MbLWF2020)
 
 ## Other related
 - [2006-High-dimensional Graphs and variables selection with the Lasso](Papers/2006-High-dimensional%20Graphs%20and%20variables%20selection%20with%20the%20Lasso.pdf) [**[Link]**](https://projecteuclid.org/euclid.aos/1152540754)
@@ -43,5 +43,6 @@ Bayesian Hypergraph / Chain graph structure
 - [2012-Discovering Cyclic Causal Models by Independent Components Analysis](Papers/2012-Discovering%20Cyclic%20Causal%20Models%20by%20Independent%20Components%20Analysis.pdf) [**[Link]**](https://arxiv.org/abs/1206.3273)
 - [2017-Gaussian Graphical Models](Papers/2017-Gaussian%20Graphical%20Models.pdf) [**[Link]**](https://arxiv.org/pdf/1707.04345.pdf)
 
-
+## Tools
+- [Hypergraph Plot](https://resources.wolframcloud.com/FunctionRepository/resources/HypergraphPlot)
 
