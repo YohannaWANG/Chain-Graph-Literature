@@ -44,6 +44,7 @@ Bayesian Hypergraph / Chain graph structure
 - [2017-Gaussian Graphical Models](Papers/2017-Gaussian%20Graphical%20Models.pdf) [**[Link]**](https://arxiv.org/pdf/1707.04345.pdf)
 - [2020-Learning Sparse Nonparametric DAGs](Papers/2020-AISTATS-Learning%20Sparse%20Nonparametric%20DAGs.pdf) [**[Link]**](http://proceedings.mlr.press/v108/zheng20a/zheng20a.pdf) [**[Code]**](https://github.com/xunzheng/notears)
 
+
 ## Tools
 - [Hypergraph Plot](https://resources.wolframcloud.com/FunctionRepository/resources/HypergraphPlot)
 
