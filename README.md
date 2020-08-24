@@ -42,6 +42,7 @@ Bayesian Hypergraph / Chain graph structure
 - [2011-A constrained L1 Minimization Approach to Sparse Precision Matrix Estimation](Papers/2011-A%20constrained%20L1%20Minimization%20Approach%20to%20Sparse%20Precision%20Matrix%20Estimation.pdf) [**[Link]**](https://amstat.tandfonline.com/doi/abs/10.1198/jasa.2011.tm10155)
 - [2012-Discovering Cyclic Causal Models by Independent Components Analysis](Papers/2012-Discovering%20Cyclic%20Causal%20Models%20by%20Independent%20Components%20Analysis.pdf) [**[Link]**](https://arxiv.org/abs/1206.3273)
 - [2017-Gaussian Graphical Models](Papers/2017-Gaussian%20Graphical%20Models.pdf) [**[Link]**](https://arxiv.org/pdf/1707.04345.pdf)
+- [2020-Learning Sparse Nonparametric DAGs](Papers/2020-AISTATS-Learning Sparse Nonparametric DAGs.pdf) [**[Link]**](http://proceedings.mlr.press/v108/zheng20a/zheng20a.pdf) [**[Code]**](https://github.com/xunzheng/notears)
 
 ## Tools
 - [Hypergraph Plot](https://resources.wolframcloud.com/FunctionRepository/resources/HypergraphPlot)
