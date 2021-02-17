@@ -15,7 +15,7 @@
 - [2020-A polynomial-time algorithm for learning nonparametric causal graphs.pdf](Papers/2020-A%20polynomial-time%20algorithm%20for%20learning%20nonparametric%20causal%20graphs.pdf) [**[Link]**](https://arxiv.org/abs/2006.11970)
 
 ## AMP Chain Graphs
--[2001-Separation and Completeness Properties for AMP Chain Graph Markov Model](Papers/2001-Separation%20and%20Completeness%20Properties%20for%20AMP%20Chain%20Graph%20Markov%20Model.pdf) [**[Link]**](https://www.jstor.org/stable/2699950?seq=1#metadata_info_tab_contents)
+- [2001-Separation and Completeness Properties for AMP Chain Graph Markov Model](Papers/2001-Separation%20and%20Completeness%20Properties%20for%20AMP%20Chain%20Graph%20Markov%20Model.pdf) [**[Link]**](https://www.jstor.org/stable/2699950?seq=1#metadata_info_tab_contents)
 
 
 # Chain Graph Literature Survey
