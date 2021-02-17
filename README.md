@@ -1,11 +1,11 @@
 # Identifiability of Chain Graph Models
 **Related Work**
-'''
+```diff
 + DAG Structure Learning
 + Additive Noise Models
 + Identifiability of DAGs
 + AMP Chain Graph Models 
-'''
+```
 
 
 
