@@ -6,10 +6,10 @@
 + Identifiability of DAGs
 + AMP Chain Graph Models 
 ```
+## Notations
 
 ## DAG Structure Learning
-[Paper]
-- [2020-On the Role of Sparsity and DAG Constraints for Learning Linear DAGs](Papers/2020-On%20the%20Role%20of%20Sparsity%20and%20DAG%20Constraints%20for%20Learning%20Linear%20DAGs.pdf)[**[Link]**](https://neurips.cc/virtual/2020/public/poster_d04d42cdf14579cd294e5079e0745411.html)
+- [2020-On the Role of Sparsity and DAG Constraints for Learning Linear DAGs](Papers/2020-On%20the%20Role%20of%20Sparsity%20and%20DAG%20Constraints%20for%20Learning%20Linear%20DAGs.pdf) [**[Link]**](https://neurips.cc/virtual/2020/public/poster_d04d42cdf14579cd294e5079e0745411.html)
 
 # Chain Graph Literature Survey
 Bayesian Hypergraph / Chain graph structure 
