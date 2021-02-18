@@ -18,6 +18,7 @@
 - [2001-Separation and Completeness Properties for AMP Chain Graph Markov Model](Papers/2001-Separation%20and%20Completeness%20Properties%20for%20AMP%20Chain%20Graph%20Markov%20Model.pdf) [**[Link]**](https://www.jstor.org/stable/2699950?seq=1#metadata_info_tab_contents)
 - [2005-A unified approach to the characterizationof equivalence classes of dags, chain graphs with no flagsand chain graphs.](Papers/2005-A%20Unified%20Approach%20to%20the%20Characterization%20of%20Equivalence%20Classes%20of%20DAGs%2C%20Chain%20Graphs%20with%20no%20Flags%20and%20Chain%20Graphs.pdf)  [**[Link]**](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9469.2005.00422.x)
 - [2009-Discrete Chain Graph Models](Papers/2009-Discrete%20Chain%20Graph%20Models.pdf)  [**[Link]**](https://projecteuclid.org/download/pdfview_1/euclid.bj/1251463279)
+- [2009-Two operations of merging and splitting components in a chain graph](Papers/2009-Two%20operations%20of%20merging%20and%20splitting%20components%20in%20a%20chain%20graph.pdf)  [**[Link]**](https://dml.cz/bitstream/handle/10338.dmlcz/140074/Kybernetika_45-2009-2_3.pdf)
 
 # Chain Graph Literature Survey
 Bayesian Hypergraph / Chain graph structure 
