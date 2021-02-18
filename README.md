@@ -21,7 +21,7 @@
 - [2009-Two operations of merging and splitting components in a chain graph](Papers/2009-Two%20operations%20of%20merging%20and%20splitting%20components%20in%20a%20chain%20graph.pdf)  [**[Link]**](https://dml.cz/bitstream/handle/10338.dmlcz/140074/Kybernetika_45-2009-2_3.pdf)
 - [2012-Learning AMP Chain Graphs under Faithfulness](Papers/2012-Learning%20AMP%20Chain%20Graphs%20under%20Faithfulness.pdf)  [**[Link]**](http://leo.ugr.es/pgm2012/submissions/pgm2012_submission_7.pdf)
 - [2014-Marginal AMP Chain Graphs](Papers/2014-Marginal%20AMP%20Chain%20Graphs.pdf)   [**[Link]**](https://www.sciencedirect.com/science/article/pii/S0888613X14000498)
-
+- [2016-Alternative Markov and Causal Properties for Acyclic Directed Mixed Graphs]()   [**[Link]**](https://arxiv.org/pdf/1511.05835.pdf) 
 
 # Chain Graph Literature Survey
 Bayesian Hypergraph / Chain graph structure 
