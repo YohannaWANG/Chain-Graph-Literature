@@ -16,7 +16,7 @@
 - [2020-On the Role of Sparsity and DAG Constraints for Learning Linear DAGs](Papers/2020-On%20the%20Role%20of%20Sparsity%20and%20DAG%20Constraints%20for%20Learning%20Linear%20DAGs.pdf) [**[Link]**](https://neurips.cc/virtual/2020/public/poster_d04d42cdf14579cd294e5079e0745411.html)
 - [2020-A polynomial-time algorithm for learning nonparametric causal graphs.pdf](Papers/2020-A%20polynomial-time%20algorithm%20for%20learning%20nonparametric%20causal%20graphs.pdf) [**[Link]**](https://arxiv.org/abs/2006.11970)
 - [2020-Identifiability of Additive Noise Models Using Conditional Variances](Papers/2020-Identifiability%20of%20Additive%20Noise%20Models%20Using%20Conditional%20Variances.pdf)  [**[Link]**](https://jmlr.org/papers/v21/19-664.html)
-- [2020-A Bregman Method for Structure Learning on Sparse Directed Acyclic Graphs]() [**[Link]**](https://arxiv.org/abs/2011.02764)
+- [2020-A Bregman Method for Structure Learning on Sparse Directed Acyclic Graphs](Papers/2020-A%20Bregman%20Method%20for%20Structure%20Learning%20on%20Sparse%20Directed%20Acyclic%20Graphs.pdf) [**[Link]**](https://arxiv.org/abs/2011.02764)
 
 ## AMP Chain Graphs
 - [2001-Separation and Completeness Properties for AMP Chain Graph Markov Model](Papers/2001-Separation%20and%20Completeness%20Properties%20for%20AMP%20Chain%20Graph%20Markov%20Model.pdf) [**[Link]**](https://www.jstor.org/stable/2699950?seq=1#metadata_info_tab_contents)
