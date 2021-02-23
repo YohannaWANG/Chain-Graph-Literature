@@ -23,7 +23,7 @@
 
 
 ## UG Structure Learning
-- [2012-Projected Subgradient Methods for Learning Sparse Gaussians]() [**[Link]**](https://arxiv.org/abs/1206.3249)
+- [2012-Projected Subgradient Methods for Learning Sparse Gaussians](Papers/2012-Projected%20Subgradient%20Methods%20for%20Learning%20Sparse%20Gaussians.pdf) [**[Link]**](https://arxiv.org/abs/1206.3249)
 
 
 ## AMP Chain Graphs
