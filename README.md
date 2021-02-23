@@ -21,6 +21,11 @@
 - [2020-On the Role of Sparsity and DAG Constraints for Learning Linear DAGs](Papers/2020-On%20the%20Role%20of%20Sparsity%20and%20DAG%20Constraints%20for%20Learning%20Linear%20DAGs.pdf) [**[Link]**](https://arxiv.org/abs/2006.10201)
 - [2020-Learning Sparse Nonparametric DAGs](Papers/2020-Learning%20Sparse%20Nonparametric%20DAGs.pdf) [**[Link]**](http://proceedings.mlr.press/v108/zheng20a.html)
 
+
+## UG Structure Learning
+- [2012-Projected Subgradient Methods for Learning Sparse Gaussians]() [**[Link]**](https://arxiv.org/abs/1206.3249)
+
+
 ## AMP Chain Graphs
 - [2001-Separation and Completeness Properties for AMP Chain Graph Markov Model](Papers/2001-Separation%20and%20Completeness%20Properties%20for%20AMP%20Chain%20Graph%20Markov%20Model.pdf) [**[Link]**](https://www.jstor.org/stable/2699950?seq=1#metadata_info_tab_contents)
 - [2005-A unified approach to the characterizationof equivalence classes of dags, chain graphs with no flagsand chain graphs.](Papers/2005-A%20Unified%20Approach%20to%20the%20Characterization%20of%20Equivalence%20Classes%20of%20DAGs%2C%20Chain%20Graphs%20with%20no%20Flags%20and%20Chain%20Graphs.pdf)  [**[Link]**](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9469.2005.00422.x)
