@@ -65,6 +65,7 @@ Bayesian Hypergraph / Chain graph structure
 - [2002-Chain graph models and their causal interpretations](Papers/2002-Chain%20graph%20models%20and%20their%20causal%20interpretations.pdf) [**[Link]**](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1467-9868.00340)
 
 [Thesis]
+- [2004-Maximum Likelihood Estimation in Gaussian AMP Chain Graph Models and Gaussian Ancestral Graph Models]() [**[Link]**](http://statistics.uchicago.edu/~drton/Papers/drton.pdf)
 - [2014-Thesis-A Study of Chain Graph Interpretations](Papers/2014-Thesis-A%20Study%20of%20Chain%20Graph%20Interpretations.pdf) [**[Link]**](https://www.diva-portal.org/smash/get/diva2:706317/FULLTEXT02.pdf)
 - [2016-Thesis-Chain Graphs](Papers/2016-Thesis-Chain%20Graphs.pdf) [**[Link]**](https://liu.diva-portal.org/smash/get/diva2:910177/FULLTEXT01.pdf)
 
