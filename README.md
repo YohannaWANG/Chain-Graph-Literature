@@ -41,7 +41,7 @@
 - [2014-Marginal AMP Chain Graphs](Papers/2014-Marginal%20AMP%20Chain%20Graphs.pdf)   [**[Link]**](https://www.sciencedirect.com/science/article/pii/S0888613X14000498)
 - [2016-Alternative Markov and Causal Properties for Acyclic Directed Mixed Graphs](Papers/2016-Alternative%20Markov%20and%20Causal%20Properties%20for%20Acyclic%20Directed%20Mixed%20Graphs.pdf)  [**[Link]**](https://arxiv.org/pdf/1511.05835.pdf) 
 - [2018-Reasoning with Alternative Acyclic Directed Mixed Graphs](Papers/2018-Reasoning%20with%20Alternative%20Acyclic%20Directed%20Mixed%20Graphs.pdf)  [**[Link]**](https://link.springer.com/article/10.1007/s41237-018-0051-2)
-- [2020-AMP Chain Graphs- Minimal Separators and Structure Learning Algorithms]()  [**[Link]**](https://www.jair.org/index.php/jair/article/view/12101)
+- [2020-AMP Chain Graphs- Minimal Separators and Structure Learning Algorithms](Papers/2020-AMP%20Chain%20Graphs-%20Minimal%20Separators%20and%20Structure%20Learning%20Algorithms.pdf)  [**[Link]**](https://www.jair.org/index.php/jair/article/view/12101)
 
 # Chain Graph Literature Survey
 Bayesian Hypergraph / Chain graph structure 
