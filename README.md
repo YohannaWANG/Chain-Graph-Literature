@@ -27,6 +27,7 @@
 - [2006-First-Order Methods for Sparse Covariance Selection](Papers/2006-First-Order%20Methods%20for%20Sparse%20Covariance%20Selection.pdf) [**[Link]**](https://arxiv.org/abs/math/0609812)
 - [2007-Sparse inverse covariance estimation with the graphical Lasso](Papers/2007-Sparse%20inverse%20covariance%20estimation%20with%20the%20graphical%20Lasso.pdf)  [**[Link]**](http://statweb.stanford.edu/~tibs/ftp/graph.pdf)
 - [2012-Projected Subgradient Methods for Learning Sparse Gaussians](Papers/2012-Projected%20Subgradient%20Methods%20for%20Learning%20Sparse%20Gaussians.pdf) [**[Link]**](https://arxiv.org/abs/1206.3249)
+- [2012-The graphical lasso-New insights and alternatves]()  [**[Link]**](https://arxiv.org/abs/1111.5479)
 
 
 ## AMP Chain Graphs
