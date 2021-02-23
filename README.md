@@ -23,7 +23,7 @@
 
 
 ## UG Structure Learning
-- [2006-First-Order Methods for Sparse Covariance Selection]() [**[Link]**](https://arxiv.org/abs/math/0609812)
+- [2006-First-Order Methods for Sparse Covariance Selection](Papers/2006-First-Order%20Methods%20for%20Sparse%20Covariance%20Selection.pdf) [**[Link]**](https://arxiv.org/abs/math/0609812)
 - [2012-Projected Subgradient Methods for Learning Sparse Gaussians](Papers/2012-Projected%20Subgradient%20Methods%20for%20Learning%20Sparse%20Gaussians.pdf) [**[Link]**](https://arxiv.org/abs/1206.3249)
 
 
