@@ -22,6 +22,7 @@
 - [2020-A Bregman Method for Structure Learning on Sparse Directed Acyclic Graphs](Papers/2020-A%20Bregman%20Method%20for%20Structure%20Learning%20on%20Sparse%20Directed%20Acyclic%20Graphs.pdf) [**[Link]**](https://arxiv.org/abs/2011.02764)
 - [2020-On the Role of Sparsity and DAG Constraints for Learning Linear DAGs](Papers/2020-On%20the%20Role%20of%20Sparsity%20and%20DAG%20Constraints%20for%20Learning%20Linear%20DAGs.pdf) [**[Link]**](https://arxiv.org/abs/2006.10201)
 - [2020-Learning Sparse Nonparametric DAGs](Papers/2020-Learning%20Sparse%20Nonparametric%20DAGs.pdf) [**[Link]**](http://proceedings.mlr.press/v108/zheng20a.html)
+- [2020-On the Convergence of Continuous Constrained Optimizaton for Structure Learning]() [**[Link]**](https://arxiv.org/abs/2011.11150)
 
 
 ## UG Structure Learning
