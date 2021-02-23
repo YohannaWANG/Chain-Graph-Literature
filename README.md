@@ -8,7 +8,7 @@
 ```
 ## Notations
 - [2016-Structure Learning in Graphical Models](Papers/2016-Structure%20Learning%20in%20Graphical%20Models.pdf) [**[Link]**](https://arxiv.org/abs/1606.02359)
-- [2017-Gaussian Graphical Models]()  [**[Link]**](https://arxiv.org/pdf/1707.04345.pdf)
+- [2017-Gaussian Graphical Models](Papers/2017-Gaussian%20Graphical%20Models.pdf)  [**[Link]**](https://arxiv.org/pdf/1707.04345.pdf)
 
 
 ## DAG Structure Learning
