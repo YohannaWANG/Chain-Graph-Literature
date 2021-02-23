@@ -40,7 +40,7 @@
 - [2012-Learning AMP Chain Graphs under Faithfulness](Papers/2012-Learning%20AMP%20Chain%20Graphs%20under%20Faithfulness.pdf)  [**[Link]**](http://leo.ugr.es/pgm2012/submissions/pgm2012_submission_7.pdf)
 - [2014-Marginal AMP Chain Graphs](Papers/2014-Marginal%20AMP%20Chain%20Graphs.pdf)   [**[Link]**](https://www.sciencedirect.com/science/article/pii/S0888613X14000498)
 - [2016-Alternative Markov and Causal Properties for Acyclic Directed Mixed Graphs](Papers/2016-Alternative%20Markov%20and%20Causal%20Properties%20for%20Acyclic%20Directed%20Mixed%20Graphs.pdf)   [**[Link]**](https://arxiv.org/pdf/1511.05835.pdf) 
-- [2018-Reasoning with Alternative Acyclic Directed Mixed Graphs]()  [**[Link]**](https://link.springer.com/article/10.1007/s41237-018-0051-2)
+- [2018-Reasoning with Alternative Acyclic Directed Mixed Graphs](Papers/2018-Reasoning%20with%20Alternative%20Acyclic%20Directed%20Mixed%20Graphs.pdf)  [**[Link]**](https://link.springer.com/article/10.1007/s41237-018-0051-2)
 
 # Chain Graph Literature Survey
 Bayesian Hypergraph / Chain graph structure 
