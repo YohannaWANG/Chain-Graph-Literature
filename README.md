@@ -23,6 +23,7 @@
 - [2020-On the Role of Sparsity and DAG Constraints for Learning Linear DAGs](Papers/2020-On%20the%20Role%20of%20Sparsity%20and%20DAG%20Constraints%20for%20Learning%20Linear%20DAGs.pdf) [**[Link]**](https://arxiv.org/abs/2006.10201)
 - [2020-Learning Sparse Nonparametric DAGs](Papers/2020-Learning%20Sparse%20Nonparametric%20DAGs.pdf) [**[Link]**](http://proceedings.mlr.press/v108/zheng20a.html)
 - [2020-On the Convergence of Continuous Constrained Optimizaton for Structure Learning](Papers/2020-On%20the%20Convergence%20of%20Continuous%20Constrained%20Optimizaton%20for%20Structure%20Learning.pdf) [**[Link]**](https://arxiv.org/abs/2011.11150)
+- [2020-DAGs with No Fears- A Closer Look at Continuous Optimization for Learning Bayesian Networks]()  [**[Link]**](https://proceedings.neurips.cc/paper/2020/file/28a7602724ba16600d5ccc644c19bf18-Paper.pdf)
 
 
 ## UG Structure Learning
