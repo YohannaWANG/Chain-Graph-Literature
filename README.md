@@ -16,6 +16,7 @@
 - [2015-Concave Penalized Estimation of Sparse Gaussian Bayesian Networks]() [**[Link]**](https://www.jmlr.org/papers/volume16/aragam15a/aragam15a.pdf)
 - [2018-DAGs with NO TEARS- Continuous Optimization for Structure Learning](Papers/2018-DAGs%20with%20NO%20TEARS-%20Continuous%20Optimization%20for%20Structure%20Learning.pdf) [**[Link]**](https://arxiv.org/abs/1803.01422)
 - [2019-On Causal Discovery with Equal Variance Assumption](Papers/2019-On%20Causal%20Discovery%20with%20Equal%20Variance%20Assumption.pdf) [**[Link]**](https://arxiv.org/abs/1807.03419)
+- [2019-DAG-GNN- DAG Structure Learning with Graph Neural Networks]()  [**[Link]**](https://arxiv.org/abs/1904.10098)
 - [2020-On the Role of Sparsity and DAG Constraints for Learning Linear DAGs](Papers/2020-On%20the%20Role%20of%20Sparsity%20and%20DAG%20Constraints%20for%20Learning%20Linear%20DAGs.pdf) [**[Link]**](https://neurips.cc/virtual/2020/public/poster_d04d42cdf14579cd294e5079e0745411.html)
 - [2020-A polynomial-time algorithm for learning nonparametric causal graphs.pdf](Papers/2020-A%20polynomial-time%20algorithm%20for%20learning%20nonparametric%20causal%20graphs.pdf) [**[Link]**](https://arxiv.org/abs/2006.11970)
 - [2020-Identifiability of Additive Noise Models Using Conditional Variances](Papers/2020-Identifiability%20of%20Additive%20Noise%20Models%20Using%20Conditional%20Variances.pdf)  [**[Link]**](https://jmlr.org/papers/v21/19-664.html)
