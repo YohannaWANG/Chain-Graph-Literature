@@ -14,11 +14,15 @@
 
 ## [Submodularity Optimization](https://las.inf.ethz.ch/submodularity/#meetings)
 - [2010-SFO: A Toolbox for Submodular Function Optimization](https://www.jmlr.org/papers/volume11/krause10a/krause10a.pdf)
-### [Machine learning summer school](http://people.csail.mit.edu/stefje/mlss/tuebingen2017.pdf)
+- [2013-Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints](https://proceedings.neurips.cc/paper/2013/hash/a1d50185e7426cbb0acad1e6ca74b9aa-Abstract.html)
+
+- [Machine learning summer school](http://people.csail.mit.edu/stefje/mlss/tuebingen2017.pdf)
 - [2017- Submodular Functions and Machine Learning](http://people.csail.mit.edu/stefje/mlss/) 
     - Submodular Functions [[Part 1]](http://people.csail.mit.edu/stefje/mlss/cadiz_part1.pdf) [[Part 2]](http://people.csail.mit.edu/stefje/mlss/cadiz_part2.pdf) 
     - Submodular Functions and Machine Learning [[Lecture 1]](http://people.csail.mit.edu/stefje/mlss/kyoto_mlss_lecture1.pdf) [[Lecture 2]](http://people.csail.mit.edu/stefje/mlss/kyoto_mlss_lecture2.pdf) [[Lecture 3]](http://people.csail.mit.edu/stefje/mlss/kyoto_mlss_lecture3.pdf)
     - [Literature survey](http://people.csail.mit.edu/stefje/mlss/literature.pdf)
+
+- Lecture: Submodularity and Optimization -- Jeff Bilmes [(Part 1)](https://www.youtube.com/watch?v=6ThMzlHdKsI)  [(Part 2)](https://www.youtube.com/watch?v=P5REi-2XSaU)  [(Part 3)](https://www.youtube.com/watch?v=zZm2dmXTo8Y)
 
 ## DAG Structure Learning
 - [2002-Optimal Structure Identification With Greedy Search](https://www.jmlr.org/papers/volume3/chickering02b/chickering02b.pdf)
