@@ -5,13 +5,21 @@
 + Additive Noise Models
 + Identifiability of DAGs
 + AMP Chain Graph Models 
+- Submodularity Optimization (theory)
+- Submodularity + Greedy Search (implementation)
 ```
 ## Notations
 - [2016-Structure Learning in Graphical Models](Papers/2016-Structure%20Learning%20in%20Graphical%20Models.pdf) [**[Link]**](https://arxiv.org/abs/1606.02359)
 - [2017-Gaussian Graphical Models](Papers/2017-Gaussian%20Graphical%20Models.pdf)  [**[Link]**](https://arxiv.org/pdf/1707.04345.pdf)
 
+## Submodularity Optimization
+- [2010-SFO: A Toolbox for Submodular Function Optimization](https://www.jmlr.org/papers/volume11/krause10a/krause10a.pdf)
+### Machine learning summer school
+- [2017- Submodular Functions and Machine Learning](http://people.csail.mit.edu/stefje/mlss/)  [Part 1]()
+    - Submodular Functions and Machine Learning 
 
 ## DAG Structure Learning
+- [2002-Optimal Structure Identification With Greedy Search](https://www.jmlr.org/papers/volume3/chickering02b/chickering02b.pdf)
 - [2011-Identifiability of Causal Graphs using Functional Models]()  [**[Link]**](https://arxiv.org/ftp/arxiv/papers/1202/1202.3757.pdf)
 - [2013-Identifiability of Gaussian structural equation models with equal error variances](Papers/2013-Identifiability%20of%20Gaussian%20structural%20equation%20models%20with%20equal%20error%20variances.pdf) [**[Link]**](https://arxiv.org/abs/1205.2536)
 - [2015-Concave Penalized Estimation of Sparse Gaussian Bayesian Networks]() [**[Link]**](https://www.jmlr.org/papers/volume16/aragam15a/aragam15a.pdf)
