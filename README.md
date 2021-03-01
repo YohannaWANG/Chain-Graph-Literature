@@ -16,8 +16,8 @@
 - [2010-SFO: A Toolbox for Submodular Function Optimization](https://www.jmlr.org/papers/volume11/krause10a/krause10a.pdf)
 ### [Machine learning summer school](http://people.csail.mit.edu/stefje/mlss/tuebingen2017.pdf)
 - [2017- Submodular Functions and Machine Learning](http://people.csail.mit.edu/stefje/mlss/) 
-    - Submodular Functions [Part 1](http://people.csail.mit.edu/stefje/mlss/cadiz_part1.pdf) [Part 2](http://people.csail.mit.edu/stefje/mlss/cadiz_part2.pdf) 
-    - Submodular Functions and Machine Learning [Lecture 1](http://people.csail.mit.edu/stefje/mlss/kyoto_mlss_lecture1.pdf) [Lecture 2](http://people.csail.mit.edu/stefje/mlss/kyoto_mlss_lecture2.pdf) [Lecture 3](http://people.csail.mit.edu/stefje/mlss/kyoto_mlss_lecture3.pdf)
+    - Submodular Functions [[Part 1]](http://people.csail.mit.edu/stefje/mlss/cadiz_part1.pdf) [[Part 2]](http://people.csail.mit.edu/stefje/mlss/cadiz_part2.pdf) 
+    - Submodular Functions and Machine Learning [[Lecture 1]](http://people.csail.mit.edu/stefje/mlss/kyoto_mlss_lecture1.pdf) [[Lecture 2]](http://people.csail.mit.edu/stefje/mlss/kyoto_mlss_lecture2.pdf) [[Lecture 3]](http://people.csail.mit.edu/stefje/mlss/kyoto_mlss_lecture3.pdf)
     - [Literature survey](http://people.csail.mit.edu/stefje/mlss/literature.pdf)
 
 ## DAG Structure Learning
