@@ -16,7 +16,8 @@
 |2020 | Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi | [Learning LWF Chain Graphs: an Order Independent Algorithm](https://arxiv.org/pdf/2005.14037.pdf) | [Link] | -|
 |2020 | Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi | [Learning LWF chain graphs: A Markov blanket discovery approach](http://proceedings.mlr.press/v124/ali-javidian20a/ali-javidian20a.pdf) | [Link] | -|
 |2020 | Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi | [AMP chain graphs: Minimal separators and structure learning algorithms](https://www.jair.org/index.php/jair/article/view/12101) | [Link] | - |
- 
+|2021 | Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi | [An Order-Independent Algorithm for Learning Chain Graphs](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dtuQ0nQAAAAJ&sortby=pubdate&citation_for_view=dtuQ0nQAAAAJ:_kc_bZDykSQC) | [Link] | - |
+|2021 | Mohammad Ali Javidian, Marco Valtorta | [A decomposition-based algorithm for learning the structure of multivariate regression chain graphs](https://www.sciencedirect.com/science/article/abs/pii/S0888613X21000712) | [Link] | - |
   
 
 ## Notations
