@@ -11,6 +11,11 @@
 |Year    |  Author  | Paper        | Pdf with comments  | summary   |  code  |
 |:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
 |2018 | Mohammad Ali Javidian, Marco Valtorta |[Finding Minimal Separators in LWF Chain Graphs](http://proceedings.mlr.press/v72/javidian18a/javidian18a.pdf) | [Link] | - |
+|2019 | Mohammad Ali Javidian | [Properties, Learning Algorithms, and Applications of Chain Graphs and Bayesian Hypergraphs](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=6555&context=etd) | [Link] | - |
+|2019 | Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi | [Order-independent structure learning of multivariate regression chain graphs](https://arxiv.org/pdf/1910.01067.pdf) | [Link] | - |
+|2020 | Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi | [Learning LWF Chain Graphs: an Order Independent Algorithm](https://arxiv.org/pdf/2005.14037.pdf) | [Link] | -|
+|2020 | Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi | [Learning LWF chain graphs: A Markov blanket discovery approach](http://proceedings.mlr.press/v124/ali-javidian20a/ali-javidian20a.pdf) | [Link] | -|
+
   
 
 ## Notations
