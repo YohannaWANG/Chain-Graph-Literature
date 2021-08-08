@@ -8,6 +8,11 @@
 - Submodularity Optimization (theory)
 - Submodularity + Greedy Search (implementation)
 ```
+|Year    |  Author  | Paper        | Pdf with comments  | summary   |  code  |
+|:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
+|2018 | Mohammad Ali Javidian, Marco Valtorta |[Finding Minimal Separators in LWF Chain Graphs](http://proceedings.mlr.press/v72/javidian18a/javidian18a.pdf) | [Link] | - |
+  
+
 ## Notations
 - [2016-Structure Learning in Graphical Models](Papers/2016-Structure%20Learning%20in%20Graphical%20Models.pdf) [**[Link]**](https://arxiv.org/abs/1606.02359)
 - [2017-Gaussian Graphical Models](Papers/2017-Gaussian%20Graphical%20Models.pdf)  [**[Link]**](https://arxiv.org/pdf/1707.04345.pdf)
